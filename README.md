@@ -5,7 +5,7 @@
  just add the util package into your project and start using the adapter class for **AutoCompleteTextView** and **RecyclerView**
 
 # Demo
-![demo](https://raw.githubusercontent.com/csguys/prefixSearch/dev/ezgif.com-video-to-gif.gif)
+![demo](https://github.com/csguys/multiwordsuggestion/blob/master/ezgif.com-video-to-gif.gif)
  # usage
  ## For AutoCompleteTextView
  ```
